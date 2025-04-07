@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 lieu: fontaine
 inventaire:
   - baguette
@@ -5,11 +6,20 @@ inventaire:
 personnages:
   - moi:
     - santé: 1
+=======
+lieu: montagne 
+inventaire:
+  - cheval
+  - lion 
+personnages:
+  - moi:
+    - santé: 11
+>>>>>>> fisher-king
   - chevalier_noir:
     - santé: 0
   - lion:
-    - santé: 20
+    - santé: 19
   - serpent:
-    - santé: 20
+    - santé: 0
   - géant:
-    - santé: 25
+    - santé: 0
