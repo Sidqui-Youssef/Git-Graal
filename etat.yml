@@ -1,14 +1,15 @@
-lieu: table-ronde
+lieu: je suis sur le chemin 
 inventaire:
   - cheval
+  - lion 
 personnages:
   - moi:
-    - santé: 10
+    - santé: 12
   - chevalier_noir:
     - santé: 15
   - lion:
     - santé: 20
   - serpent:
-    - santé: 20
+    - santé: 0
   - géant:
     - santé: 25
